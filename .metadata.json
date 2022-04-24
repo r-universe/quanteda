@@ -1,0 +1,34 @@
+[
+  {
+    "package": "nsyllable",
+    "oncran": true
+  },
+  {
+    "package": "quanteda",
+    "oncran": true
+  },
+  {
+    "package": "quanteda.textmodels",
+    "oncran": true
+  },
+  {
+    "package": "quanteda.textplots",
+    "oncran": true
+  },
+  {
+    "package": "quanteda.textstats",
+    "oncran": true
+  },
+  {
+    "package": "readtext",
+    "oncran": true
+  },
+  {
+    "package": "spacyr",
+    "oncran": true
+  },
+  {
+    "package": "stopwords",
+    "oncran": true
+  }
+]
