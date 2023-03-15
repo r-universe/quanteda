@@ -1,22 +1,17 @@
 [
   {
-    "package": "spacyr",
+    "package": "nsyllable",
     "oncran": true
   },
   {
-    "package": "readtext",
+    "package": "quanteda",
     "oncran": true
+  },
+  {
+    "package": "quanteda.textmodels"
   },
   {
     "package": "quanteda.textplots",
-    "oncran": true
-  },
-  {
-    "package": "stopwords",
-    "oncran": true
-  },
-  {
-    "package": "nsyllable",
     "oncran": true
   },
   {
@@ -24,11 +19,15 @@
     "oncran": true
   },
   {
-    "package": "quanteda.textmodels",
+    "package": "readtext",
     "oncran": true
   },
   {
-    "package": "quanteda",
+    "package": "spacyr",
+    "oncran": true
+  },
+  {
+    "package": "stopwords",
     "oncran": true
   }
 ]
