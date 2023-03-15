@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "nsyllable"]
-	path = nsyllable
-	url = https://github.com/quanteda/nsyllable
-	shallow = true
-	registered = true
-[submodule "quanteda"]
-	path = quanteda
-	url = https://github.com/quanteda/quanteda
-	shallow = true
-	registered = true
-[submodule "quanteda.textmodels"]
-	path = quanteda.textmodels
-	url = https://github.com/quanteda/quanteda.textmodels
-	shallow = true
-	registered = true
-[submodule "quanteda.textplots"]
-	path = quanteda.textplots
-	url = https://github.com/quanteda/quanteda.textplots
-	shallow = true
-	registered = true
-[submodule "quanteda.textstats"]
-	path = quanteda.textstats
-	url = https://github.com/quanteda/quanteda.textstats
+[submodule "spacyr"]
+	path = spacyr
+	url = https://github.com/quanteda/spacyr
 	shallow = true
 	registered = true
 [submodule "readtext"]
@@ -33,13 +13,33 @@
 	url = https://github.com/quanteda/readtext
 	shallow = true
 	registered = true
-[submodule "spacyr"]
-	path = spacyr
-	url = https://github.com/quanteda/spacyr
+[submodule "quanteda.textplots"]
+	path = quanteda.textplots
+	url = https://github.com/quanteda/quanteda.textplots
 	shallow = true
 	registered = true
 [submodule "stopwords"]
 	path = stopwords
 	url = https://github.com/quanteda/stopwords
+	shallow = true
+	registered = true
+[submodule "nsyllable"]
+	path = nsyllable
+	url = https://github.com/quanteda/nsyllable
+	shallow = true
+	registered = true
+[submodule "quanteda.textstats"]
+	path = quanteda.textstats
+	url = https://github.com/quanteda/quanteda.textstats
+	shallow = true
+	registered = true
+[submodule "quanteda.textmodels"]
+	path = quanteda.textmodels
+	url = https://github.com/quanteda/quanteda.textmodels
+	shallow = true
+	registered = true
+[submodule "quanteda"]
+	path = quanteda
+	url = https://github.com/quanteda/quanteda
 	shallow = true
 	registered = true
