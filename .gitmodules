@@ -11,9 +11,6 @@
 [submodule "quanteda.textmodels"]
 	path = quanteda.textmodels
 	url = https://github.com/quanteda/quanteda.textmodels
-[submodule "quanteda.textplots"]
-	path = quanteda.textplots
-	url = https://github.com/quanteda/quanteda.textplots
 [submodule "quanteda.textstats"]
 	path = quanteda.textstats
 	url = https://github.com/quanteda/quanteda.textstats
